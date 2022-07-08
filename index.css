@@ -1,0 +1,10 @@
+.box {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  background: green;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
